@@ -1,1 +1,7 @@
-тестовое изменение с ветки branch-2
+Hello, Vitaly
+
+
+some update
+
+
+update from git-kraken
